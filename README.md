@@ -3,7 +3,7 @@
 ## 📖 Introduction
 This is a official PyTorch implementation of the paper：Audio-Text Jailbreak Attack on Large Audio-Language Models: Towards Generality and Stealthiness.
 
-![Uploading 1d6f87774f86de85a9377ef6f0035187.png…](https://github.com/woshicaigou18/MMBO_Attack/blob/main/MMBO_Attack.png)
+[![Uploading 1d6f87774f86de85a9377ef6f0035187.png…](https://github.com/woshicaigou18/MMBO_Attack/blob/main/MMBO_Attack.png)](https://github.com/woshicaigou18/MMBO-Attack/blob/main/MMBO_Attack.png)
 
 
 ## 🚀 Run
